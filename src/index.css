@@ -39,6 +39,10 @@ a {
   width: 100% !important;
 }
 
+.css-0 {
+  width: 100%;
+}
+
 .search-bar{
   border:none;
   outline:none;
