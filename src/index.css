@@ -39,10 +39,6 @@ a {
   width: 100% !important;
 }
 
-.css-0 {
-  width: 100%;
-}
-
 .search-bar{
   border:none;
   outline:none;
@@ -76,9 +72,17 @@ a {
   .copyright{
     display:none !important;
   }
+  .css-0 {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 600px) {
+
+  .css-0 {
+    width: 100%;
+  }
+
   .scroll-horizontal {
     overflow: auto !important;
   }
